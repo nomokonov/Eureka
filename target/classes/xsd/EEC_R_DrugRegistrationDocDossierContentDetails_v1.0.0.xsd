@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           targetNamespace="urn:EEC:R:DrugRegistrationDocDossierContentDetails:v1.0.0"
+           xmlns:doc="urn:EEC:R:DrugRegistrationDocDossierContentDetails:v1.0.0"
+           xmlns:ccdo="urn:EEC:M:ComplexDataObjects:v0.4.6"
+           xmlns:hccdo="urn:EEC:M:HC:ComplexDataObjects:v1.0.3"
+           xmlns:hcsdo="urn:EEC:M:HC:SimpleDataObjects:v1.0.3"
+           xmlns:csdo="urn:EEC:M:SimpleDataObjects:v0.4.6"
+           version="1.0.0">
+
+    <xs:import namespace="urn:EEC:M:ComplexDataObjects:v0.4.6" schemaLocation="EEC_M_ComplexDataObjects_v0.4.6.xsd"/>
+    <xs:import namespace="urn:EEC:M:HC:ComplexDataObjects:v1.0.3" schemaLocation="EEC_M_HC_ComplexDataObjects_v1.0.3.xsd"/>
+    <xs:import namespace="urn:EEC:M:HC:SimpleDataObjects:v1.0.3" schemaLocation="EEC_M_HC_SimpleDataObjects_v1.0.3.xsd"/>
+    <xs:import namespace="urn:EEC:M:SimpleDataObjects:v0.4.6" schemaLocation="EEC_M_SimpleDataObjects_v0.4.6.xsd"/>
+
+    <!-- R.022: Сведения регистрационного дела или регистрационного досье на лекарственный препарат (Сведения регистрационного дела или регистрационного досье на лекарственный препарат. Детали) -->
+    <xs:element name="DrugRegistrationDocDossierContentDetails" type="doc:DrugRegistrationDocDossierContentDetailsType">
+        <xs:annotation>
+            <xs:documentation>Сведения регистрационного дела или регистрационного досье на лекарственный препарат</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    <!-- R.022.CDT: Сведения регистрационного дела или регистрационного досье на лекарственный препарат (Сведения регистрационного дела или регистрационного досье на лекарственный препарат_ Детали. Тип) -->
+    <xs:complexType name="DrugRegistrationDocDossierContentDetailsType">
+        <xs:annotation>
+            <xs:documentation>Сведения регистрационного дела или регистрационного досье на лекарственный препарат</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element ref="csdo:EDocCode"/>
+            <xs:element ref="csdo:EDocId"/>
+            <xs:element ref="csdo:EDocRefId" minOccurs="0"/>
+            <xs:element ref="csdo:EDocDateTime"/>
+            <xs:element ref="csdo:UnifiedCountryCode">
+                <xs:annotation>
+                    <xs:documentation>Кодовое обозначение страны, направившей документ</xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element ref="hcsdo:RegistrationNumberId" minOccurs="0"/>
+            <xs:element ref="hcsdo:ApplicationId" minOccurs="0"/>
+            <xs:element ref="hcsdo:RegistrationKindCode" minOccurs="0"/>
+            <xs:element ref="hccdo:RegistrationDossierDocDetails" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

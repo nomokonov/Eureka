@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This document was created with PHARDO. Visit http://www.eurekabpo.ru -->
+<doc:DrugRegistrationDocDossierContentDetails
+
+xmlns:hcsdo="urn:EEC:M:HC:SimpleDataObjects:v1.0.3"
+xmlns:bdt="urn:EEC:M:BaseDataTypes:v0.4.6"
+xmlns:csdo="urn:EEC:M:SimpleDataObjects:v0.4.6"
+xmlns:ccdo="urn:EEC:M:ComplexDataObjects:v0.4.6"
+xmlns:hccdo="urn:EEC:M:HC:ComplexDataObjects:v1.0.3"
+xmlns:doc="urn:EEC:R:DrugRegistrationDocDossierContentDetails:v1.0.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="urn:EEC:R:DrugRegistrationDocDossierContentDetails:v1.0.0 EEC_R_DrugRegistrationDocDossierContentDetails_v1.0.0.xsd">
+<csdo:EDocCode>R.022</csdo:EDocCode>
+<csdo:EDocId>eb528781-42f1-4d71-b3e0-e85291b5a5ff</csdo:EDocId>
+<csdo:EDocDateTime>2021-10-26T13:37:11.362Z</csdo:EDocDateTime>
+<csdo:UnifiedCountryCode codeListId="P.CLS.019">KG</csdo:UnifiedCountryCode>
+<hcsdo:RegistrationKindCode>01</hcsdo:RegistrationKindCode>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>7776d518-eda3-4b10-b130-c7b852b3beca</csdo:DocId>
+<csdo:DocName>32s111-32s11svedenia-o-naimenovanii-aktivnoj-farm-substancii.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>12001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-26</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">b016fa5c492a5440c11a2671b17d5749</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="API">&#1057;&#1091;&#1073;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; 1,&#1055;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; 1</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>a42c8110-902a-47f0-a846-109d96ab48ca</csdo:DocId>
+<csdo:DocName>32s131-32s13svedenia-ob-obsih-svojstvah-aktivnoj-farmsubstancii.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>12003</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-26</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">b016fa5c492a5440c11a2671b17d5749</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="API">&#1057;&#1091;&#1073;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; 1,&#1055;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; 2</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+</doc:DrugRegistrationDocDossierContentDetails>

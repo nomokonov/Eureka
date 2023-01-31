@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This document was created with PHARDO. Visit http://www.eurekabpo.ru -->
+<doc:DrugRegistrationDocDossierContentDetails
+
+xmlns:hcsdo="urn:EEC:M:HC:SimpleDataObjects:v1.0.3"
+xmlns:bdt="urn:EEC:M:BaseDataTypes:v0.4.6"
+xmlns:csdo="urn:EEC:M:SimpleDataObjects:v0.4.6"
+xmlns:ccdo="urn:EEC:M:ComplexDataObjects:v0.4.6"
+xmlns:hccdo="urn:EEC:M:HC:ComplexDataObjects:v1.0.3"
+xmlns:doc="urn:EEC:R:DrugRegistrationDocDossierContentDetails:v1.0.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="urn:EEC:R:DrugRegistrationDocDossierContentDetails:v1.0.0 EEC_R_DrugRegistrationDocDossierContentDetails_v1.0.0.xsd">
+<csdo:EDocCode>R.022</csdo:EDocCode>
+<csdo:EDocId>66fdf6a3-c293-4e9c-a750-4ec8576b1173</csdo:EDocId>
+<csdo:EDocDateTime>2021-10-29T11:14:39.910Z</csdo:EDocDateTime>
+<csdo:UnifiedCountryCode codeListId="P.CLS.019">KZ</csdo:UnifiedCountryCode>
+<hcsdo:RegistrationKindCode>01</hcsdo:RegistrationKindCode>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>af5f7eb9-b6d9-417f-9ade-3935a4a12680</csdo:DocId>
+<csdo:DocName>32s121-32s12svedenia-o-strukture-aktivnoj-farm-substancii.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>12002</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">914c243c669ab44fa8821502c00ea571</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="API">&#1057;&#1091;&#1073;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; 2,&#1055;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; 2</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>a0cd551f-8c1a-4677-8956-fdf8caf7be68</csdo:DocId>
+<csdo:DocName>311-soderzanie-modula-3.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>25003</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">a8a0f3d9889e9299a34daae2b2f0da2e</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>f76f063b-1249-4d00-a3d7-e152ed204f54</csdo:DocId>
+<csdo:DocName>42111-4211otcet-ob-issledovanii-pervicnoj-fd.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>14001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">dbd49786abf60cf6522c0eb8375a6048</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>b54c36d4-7645-4017-9454-7d3348931871</csdo:DocId>
+<csdo:DocName>411-soderzanie-modula-4.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>25005</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">bed865d714b211db32ab6ae871f9751d</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>0ec6c67f-ca54-47f6-b28f-6401b51c70c5</csdo:DocId>
+<csdo:DocName>111-soderzanie-dose.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>25001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">ea487213b6c4f48bb3748b9d5e737182</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>f0b3cac7-ad7f-403d-b980-dc9efa3a829e</csdo:DocId>
+<csdo:DocName>18211-182dogovor-mezdu-sponsorom-ki-i-is.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>04017</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">0272ca899affcd7cbdd9f0c56bc571d9</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>d873913d-01aa-4715-97b6-94c4216e677e</csdo:DocId>
+<csdo:DocName>18291-182razresenie-na-provedenie-klinic-issledovania.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>99999</hcsdo:DrugRegistrationDocCode>
+<hcsdo:DrugRegistrationDocName>Резюме для заявления на регистрацию с установлением пострегистрационных мер (регистрация на условиях)</hcsdo:DrugRegistrationDocName>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">44318b40266d7b9b4a83b24a8a585c14</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>353bc75a-f7e0-4e55-bc71-72b6d079ef80</csdo:DocId>
+<csdo:DocName>1311-131proekt-obsej-h-ki-lek-preparata.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>02001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">80cf45370151ead128b1907a2164326b</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>51dd0938-0c5e-47d2-882c-d35518dd7964</csdo:DocId>
+<csdo:DocName>1211-121zaavlenie-o-registracii-lek-preparata.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>01002</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">f4ce4d5cda119c9a01fd9bfe050fb0f6</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>4e437606-8844-487b-8fb3-da0a22f3e7d5</csdo:DocId>
+<csdo:DocName>101-10soprovoditelnoe-pismo.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>01001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">5166d2d670e76a4e539ddf9a4e3b44b0</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>7c156b35-f756-49b7-8bc3-73bcfc0b799e</csdo:DocId>
+<csdo:DocName>521-52perecen-vseh-kliniceskih-issledovanij.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>17001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">858e1f2131fd17a8363e2db69d209907</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>02b1fd29-8e63-459b-9788-24ea451e2edf</csdo:DocId>
+<csdo:DocName>511-soderzanie-modula-5.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>25007</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">51fbd16905f54f7feeac81265f607a91</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>3a402daf-4cd4-4c56-a2b7-2f1f3592272d</csdo:DocId>
+<csdo:DocName>53111-5gygkst.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>17002</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">95cf746795e9bb79a7f98a43695fb8a9</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>546ff26a-80d2-4f97-bb95-4f4697360074</csdo:DocId>
+<csdo:DocName>211-soderzanie-modulej-2-5.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>25002</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">d89fe20537360f4fd462bf9605d85404</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>433d5484-c014-4797-ba73-5e0f31e9fd21</csdo:DocId>
+<csdo:DocName>221-22vvedenie-v-obsij-tehniceskij-dokument.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>09001</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">7a43ccfe8e2d60233fdc79cc9c953060</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>3d2e7a7d-dbc1-4057-b304-cf46549ca380</csdo:DocId>
+<csdo:DocName>23p11-23p1obsee-opisanie-i-sostav-lek-preparata.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>09012</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">130b87a6b9d3512c2ef001fba096bdd6</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>5b5265a4-6d78-41b4-a4b4-a2847adee14a</csdo:DocId>
+<csdo:DocName>23s21-23s2obsee-opisanie-processa-proizvodstva-afs.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>09005</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">40a675684f308c209588e1a3f2e3228c</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="API">&#1057;&#1091;&#1073;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; 1,&#1055;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; 1</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>e652d5bf-1350-448a-961e-cd401b33feea</csdo:DocId>
+<csdo:DocName>23s21-23s2obsee-opisanie-processa-proizvodstva-afs.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>09005</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">40a675684f308c209588e1a3f2e3228c</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="API">&#1057;&#1091;&#1073;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; 2,&#1055;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; 2</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+<hccdo:RegistrationDossierDocDetails>
+<hcsdo:RegistrationFileIndicator>1</hcsdo:RegistrationFileIndicator>
+<csdo:DocId>ed40a61b-fb64-4e31-bc8e-e8d5532e3d59</csdo:DocId>
+<csdo:DocName>23s51-23s5obsee-opisanie-standartnyh-obrazcov-ili-materialy.pdf</csdo:DocName>
+<hcsdo:DrugRegistrationDocCode>09008</hcsdo:DrugRegistrationDocCode>
+<csdo:DocCreationDate>2021-10-29</csdo:DocCreationDate>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECKSUMM">52365b9b92210a3579e6d65131941c2b</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="CHECK_ALG">MD5</hcsdo:DrugAttributeEnumText>
+<hcsdo:DrugAttributeEnumText AttributeKindName="API">&#1057;&#1091;&#1073;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; 2,&#1055;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100; 2</hcsdo:DrugAttributeEnumText>
+<hcsdo:DocCopyBinaryText mediaTypeCode="*.pdf">JVBERi0xLjQKJfbk/N8KMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovVmVyc2lvbiAvMS40Ci9QYWdlcyAyIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAovVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSXQovQ291bnQgMQo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAgMCA2MTIgNzkyXQovUGFyZW50IDIgMCBSCj4+CmVuZG9iagp4cmVmCjAgNAowMDAwMDAwMDAwIDY1NTM1IGYKMDAwMDAwMDAxNSAwMDAwMCBuCjAwMDAwMDAwNzggMDAwMDAgbgowMDAwMDAwMTM1IDAwMDAwIG4KdHJhaWxlcgo8PAovUm9vdCAxIDAgUgovSUQgWzxGQ0E0OTlEMjIxNDY3MUM3RUY5NjE2RjQ4MTA3RkZFOD4gPEZDQTQ5OUQyMjE0NjcxQzdFRjk2MTZGNDgxMDdGRkU4Pl0KL1NpemUgNAo+PgpzdGFydHhyZWYKMjA2CiUlRU9G</hcsdo:DocCopyBinaryText>
+<hcsdo:SubmissionSequence>0000</hcsdo:SubmissionSequence>
+<hcsdo:OperationAtribute>new</hcsdo:OperationAtribute>
+</hccdo:RegistrationDossierDocDetails>
+</doc:DrugRegistrationDocDossierContentDetails>
